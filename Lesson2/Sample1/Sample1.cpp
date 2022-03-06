@@ -1,10 +1,10 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 int main()
 {
-    cout << "ようこそC++へ！\n";
-    cout << "C++を始めましょう\n";
+	cout << "Hello World!\n";
+	cout << "Start C++!!\n";
 
-    return 0;
+	return 0;
 }
