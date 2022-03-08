@@ -1,0 +1,3 @@
+﻿  Sample9.cpp
+C:\Users\metal\source\repos\LearnCpp\Lesson4\Sample9\Sample9.cpp(12,9): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Sample9.vcxproj -> C:\Users\metal\source\repos\LearnCpp\Lesson4\Sample9\x64\Debug\Sample9.exe
